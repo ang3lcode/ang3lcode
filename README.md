@@ -1,5 +1,9 @@
 ### Hi there 👋  trabajando .....
-
+<div align="center">
+  <a href="https://github.com/ang3lcode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ang3lcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ang3lcode&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <!--
 **ang3lcode/ang3lcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
