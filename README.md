@@ -1,4 +1,5 @@
 ### Hi there 👋  trabajando .....
+<!--
 
  https://ang3lcode.github.io/tranformaciones-y-transiciones-css/     conteo conejos
  
@@ -14,7 +15,7 @@
  
  https://ang3lcode.github.io/tailwindcss/  tailwind
  
- https://ang3lcode.github.io/Async-landing/ asincronismo
+ https://ang3lcode.github.io/Async-landing/ asincronismo -->
  
  
  
