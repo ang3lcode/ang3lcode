@@ -1,16 +1,4 @@
-## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ a mi GitHub
----
-![Banner](github-header-image.png)
-## Tecnologias 💻
-
-<div align="center">
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
-
-
-
+### Hi there 👋  trabajando .....
 
  https://ang3lcode.github.io/tranformaciones-y-transiciones-css/     conteo conejos
  
@@ -26,7 +14,7 @@
  
  https://ang3lcode.github.io/tailwindcss/  tailwind
  
- https://ang3lcode.github.io/Async-landing/ asincronismo
+ https://ang3lcode.github.io/Async-landing/ asincronismo -->
  
  
  
