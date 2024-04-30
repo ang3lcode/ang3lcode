@@ -1,4 +1,16 @@
-### Hi there 👋  trabajando .....
+## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ a mi GitHub
+---
+![Banner](github-header-image.png)
+## Tecnologias 💻
+
+<div align="center">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</div>
+
+
+
 
  https://ang3lcode.github.io/tranformaciones-y-transiciones-css/     conteo conejos
  
@@ -42,3 +54,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p>
+
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
