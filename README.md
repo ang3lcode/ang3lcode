@@ -11,8 +11,8 @@
 
 <div align="center"> <h3>Estadisticas del repositorio</h3> </div>
 <div align="center">
-  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ang3lcode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ang3lcode&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="10%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ang3lcode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ang3lcode&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ang3lcode&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </div>
 
